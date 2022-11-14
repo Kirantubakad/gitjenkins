@@ -11,5 +11,3 @@ do
 
             echo " factorial of $i is $fact"
 done
-~
-
